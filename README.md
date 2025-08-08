@@ -1,5 +1,10 @@
 # DiarizeWhisper
 
+## Major Caveats
+- I havent tested for large audio but small snippets are confirmed working
+- It is theoretically capable of detecting multiple speakers but hasnt undergone extensive testing
+- Higher quality audio will lead to better results, if you have bad audio I cant help you
+
 ## VEM SETUP
 
 ### How to set up and activate a venv
