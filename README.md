@@ -1,12 +1,13 @@
 # DiarizeWhisper
 
-
-
-
 ## Major Caveats
 - I havent tested for large audio but small snippets are confirmed working
 - It is theoretically capable of detecting multiple speakers but hasnt undergone extensive testing
 - Higher quality audio will lead to better results, if you have bad audio I cant help you
+
+## Initial Set-up
+
+Download the Python File provided above and then fill out the required information namely the `2 Directories` and `HF Token` (Guide to the latter provided below)
 
 ## HF TOKEN
 
