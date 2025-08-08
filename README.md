@@ -1,8 +1,8 @@
 <img width="1200" height="630" alt="Add a heading (1)" src="https://github.com/user-attachments/assets/cf4f12c6-960b-4ec2-961b-086e9b688c29" />
 
-[![Segmentation Model](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm-dark.svg)](https://huggingface.co/pyannote/segmentation)
-[![Diarization Model](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm-dark.svg)](https://huggingface.co/pyannote/speaker-diarization)
-[![Whisper](https://img.shields.io/badge/Whisper-darkgrey?logo=github)](https://github.com/openai/Whisper)
+[![Segmentation Model](https://img.shields.io/badge/Segmentation-pyanote-darkgrey?logo=huggingface)](https://huggingface.co/pyannote/segmentation)
+[![Diarization Model](https://img.shields.io/badge/Diarization-pyanote-darkgrey?logo=huggingface)](https://huggingface.co/pyannote/speaker-diarization)
+[![Whisper](https://img.shields.io/badge/Whisper-OpenAI-darkgrey?logo=github)](https://github.com/openai/Whisper)
 
 ## Major Caveats
 - I havent tested for large audio but small snippets are confirmed working
