@@ -11,6 +11,7 @@
 
 ## Initial Set-up
 
+Go to each of the HuggingFace models by pyanote and agree to their terms
 Download the Python File provided above and then fill out the required information namely the `2 Directories` and `HF Token` (Guide to the latter provided below)
 
 ## HF TOKEN
