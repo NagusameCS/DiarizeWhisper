@@ -1,5 +1,5 @@
 <img width="1200" height="630" alt="Add a heading (1)" src="https://github.com/user-attachments/assets/cf4f12c6-960b-4ec2-961b-086e9b688c29" />
-
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-pyannote%2Fsegmentation-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/pyannote/segmentation)
 
 ## Major Caveats
 - I havent tested for large audio but small snippets are confirmed working
